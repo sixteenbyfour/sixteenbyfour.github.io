@@ -1,1 +1,10 @@
+# Configurations
+markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+highlighter: pygments
+
 theme: jekyll-theme-minimal
+
+# Setup
+title:            'Ben's Photonics Lab'
+description:      'A blog'
